@@ -1,0 +1,10 @@
+---
+title: Thinking Paragraphs
+---
+
+## 21/12/2023: Wrapping up the year with a website
+
+<img src="fabian-irsara-67l-QujB14w-unsplash.jpg" style="height: 10%; width: 100%; object-fit: contain"/>
+
+"I loved working with Quarto for our project and I discovered you can actually build websites with it. I am now building a website for me!" I shared with my colleagues. I was expecting them to be impressed, which I think they were, but then, a brave one asked: "What do you, actually not you in particular, I mean anyone, might need a website for?". Yes, I had a no clue. Although that did not go well (at all!), I built the website, and here it is; ta-daa! This is my way of wrapping up the year, even though I am still not sure what I will do with it. I always wanted to have one and now I do. I've built it based on [resources](https://www.marvinschmitt.com/blog/website-tutorial-quarto/) I found online, and I am happy to help if you contact me. Happy Holidays everyone!
+
