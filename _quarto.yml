@@ -10,7 +10,7 @@ website:
   navbar:
     left:
       - text: "Thinking paragraphs"
-        href: projects/index.qmd
+        href: thinking_paragraphs/index.qmd
       - text: "CV"
         href: cv/index.qmd
     
