@@ -2,6 +2,14 @@
 title: Thinking Paragraphs
 ---
 
+
+## 17/02/2024: The magic of Power BI
+
+<img src="magic.jpg" style="height: 2in ; width: 100%; object-fit: contain"/>
+
+Recently a colleague pointed out that many people, including me, light up when they talk about Power BI. This made me think why. I got introduced to Power BI at my first job post-PhD. Yes, it was pure joy! Millions of rows, years of data entries; they danced and sang their stories in my Power BI reports. It would either take few clicks or few fun hours of building cool data models to answer the most complex questions. Loved it. Second-job PhD; same story. Publishing stuff on Power BI Service and having colleagues going "Wow!". Power BI provides an opportunity for your users to explore the data for themselves. This means that I can watch other people have that beautiful  'aha' moment when data becomes a story and everything clicks together. This is the magic of Power BI! 
+
+
 ## 21/01/2024: New Year, new certification
 
 <img src="carlos-muza-hpjSkU2UYSU-unsplash.jpg" style="height: 2in ; width: 100%; object-fit: contain"/>
