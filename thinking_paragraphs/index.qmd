@@ -2,6 +2,13 @@
 title: Thinking Paragraphs
 ---
 
+## 25/02/2024: The right job with find you
+
+<img src="yoga.jpg" style="height: 2in ; width: 100%; object-fit: contain"/>
+
+I think I spent most of my 20s being in a rush. I was always in a hurry. To finish my studies, to do a PhD, to finish that PhD, to get a job, to get a better job, and a better job etc. Covid slowed things down, but what wasn't impacted from Covid. In the past few months, I worked crazy hours daily and spent most of my free time upskilling and applying for promotions. That all familiar rush and restlessness were officially back. Did I get that promotion? Absolutely no. Have I used any of my new skills? Also no. But did I get my dream job? Surprisingly, that, I did! In an unbelievable series of impossible events - that would take much longer than a paragraph to describe. So now, I have a new theory, while I purposefully try to spend my days calmer: the right job will find you.
+
+<br>
 
 ## 17/02/2024: The magic of Power BI
 
@@ -9,6 +16,7 @@ title: Thinking Paragraphs
 
 Recently a colleague pointed out that many people, including me, light up when they talk about Power BI. This made me think why. I got introduced to Power BI at my first job post-PhD. Yes, it was pure joy! Millions of rows, years of data entries; they danced and sang their stories in my Power BI reports. It would either take few clicks or few fun hours of building cool data models to answer the most complex questions. Loved it. Second-job PhD; same story. Publishing stuff on Power BI Service and having colleagues going "Wow!". Power BI provides an opportunity for your users to explore the data for themselves. This means that I can watch other people have that beautiful  'aha' moment when data becomes a story and everything clicks together. This is the magic of Power BI! 
 
+<br>
 
 ## 21/01/2024: New Year, new certification
 
