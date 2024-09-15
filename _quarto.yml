@@ -9,8 +9,6 @@ website:
   # start of the navigation bar at the top of the website
   navbar:
     left:
-      - text: "Thinking paragraphs"
-        href: thinking_paragraphs/index.qmd
       - text: "CV"
         href: cv/index.qmd
     

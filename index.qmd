@@ -20,13 +20,11 @@ about:
 
 # Welcome to my website!
 
-My name is Margarita and I have been living in the UK since 2015. 
+My name is Margarita, I am from Greece, and I have been living in the UK since 2015. 
 
-I hold a PhD from the School of the Environment, Geography and Geosciences, University of Portsmouth. My PhD thesis was titled 'Refining our understanding of Wildfire during the Last Glacial-Interglacial Transition". It investigated wildfire expression during the very abrupt climatic changes that occurred approximately 16,000-8,000 years Before Present. It showed, for the first time, that wildfire might have been a component of the landscape, likely driven, at least in part, by climate.
+I hold a PhD from the School of the Environment, Geography and Geosciences, University of Portsmouth. My PhD thesis was titled 'Refining our understanding of Wildfire during the Last Glacial-Interglacial Transition". It investigated wildfire expression during the very abrupt climatic changes that occurred approximately 16,000-8,000 years Before Present. It showed, for the first time, that wildfire might have been a component of the landscape, likely driven at least in part, by climate.
 
-My PhD was an amazing experience and I very much enjoyed being part of academia, teaching, and travelling all over the world for fieldwork and conferences. However, post-PhD academia can be a very stressful place with zero life-balance. This is what led me to the industry.
-
-I am currently at my second job post academia. Learning new technologies has become one of my favourite things! (Although I'd lie if I didn't admit that I miss research a little bit.) I started my career as a data analyst and aspire to become a data scientist. Anything around programming and databases, I am probably learning about it, if not already using it in my job!
+Following my academic endeavours, I decided to use all that self-taught coding from my PhD and love for learning to become a data scientist! Learning new technologies has become one of my favourite things! Anything around programming and databases, I am probably learning about it, if not already using it in my job!
 
 Outside of work I enjoy watching Netflix (who doesn't?), listening to podcasts, knitting and going to the gym (in that order). I also love cats and I hope to adopt one soon.
 
